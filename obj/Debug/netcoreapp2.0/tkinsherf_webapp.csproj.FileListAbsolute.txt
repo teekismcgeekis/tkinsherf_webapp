@@ -1,0 +1,10 @@
+C:\Users\Tyler\Desktop\School\COURSE - C#\Module3\tkinsherf_webapp\bin\Debug\netcoreapp2.0\tkinsherf_webapp.deps.json
+C:\Users\Tyler\Desktop\School\COURSE - C#\Module3\tkinsherf_webapp\bin\Debug\netcoreapp2.0\tkinsherf_webapp.runtimeconfig.json
+C:\Users\Tyler\Desktop\School\COURSE - C#\Module3\tkinsherf_webapp\bin\Debug\netcoreapp2.0\tkinsherf_webapp.runtimeconfig.dev.json
+C:\Users\Tyler\Desktop\School\COURSE - C#\Module3\tkinsherf_webapp\bin\Debug\netcoreapp2.0\tkinsherf_webapp.dll
+C:\Users\Tyler\Desktop\School\COURSE - C#\Module3\tkinsherf_webapp\bin\Debug\netcoreapp2.0\tkinsherf_webapp.pdb
+C:\Users\Tyler\Desktop\School\COURSE - C#\Module3\tkinsherf_webapp\obj\Debug\netcoreapp2.0\tkinsherf_webapp.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\School\COURSE - C#\Module3\tkinsherf_webapp\obj\Debug\netcoreapp2.0\tkinsherf_webapp.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\School\COURSE - C#\Module3\tkinsherf_webapp\obj\Debug\netcoreapp2.0\tkinsherf_webapp.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\School\COURSE - C#\Module3\tkinsherf_webapp\obj\Debug\netcoreapp2.0\tkinsherf_webapp.dll
+C:\Users\Tyler\Desktop\School\COURSE - C#\Module3\tkinsherf_webapp\obj\Debug\netcoreapp2.0\tkinsherf_webapp.pdb
